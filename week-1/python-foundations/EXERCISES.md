@@ -1,0 +1,6 @@
+- [ ] Write pure functions to filter tasks and count status values.
+- [ ] Validate priority and input shape.
+- [ ] Raise and handle domain errors.
+- [ ] Organize code into modules.
+- [ ] Create GET and POST FastAPI demo endpoints.
+- [ ] Write basic tests.

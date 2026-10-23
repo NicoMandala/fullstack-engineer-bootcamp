@@ -1,0 +1,5 @@
+- [Task Management API](week-1/project-1-task-api/README.md) | Day 4: Create, list, view, update, complete, and delete tasks; reject invalid priorities.
+- [Support Ticket API](week-1/project-2-ticket-api/README.md) | Day 5: Create tickets, assign owners, filter by status and priority, and enforce allowed status transitions.
+- [Deployable Help Desk](week-2/project-3-deployable-helpdesk/README.md) | Day 10: Extend the ticket service, produce a Docker image, run automated tests and deploy using GitHub Actions.
+- [Monitored Operations Service](week-3/project-4-monitored-service/README.md) | Day 15: Add structured request/error logs, correlation IDs, Prometheus metrics, Grafana panels and failure investigation.
+- [Engineering Operations Portal](week-4/project-5-operations-portal/README.md) | Day 20: Integrate tasks, tickets, incidents, dashboard metrics, CI/CD, logging and monitoring into a cohesive service.

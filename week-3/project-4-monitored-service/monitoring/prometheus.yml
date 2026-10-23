@@ -1,0 +1,5 @@
+global:
+  scrape_interval: 15s
+scrape_configs:
+  # TODO: Add a scrape job with the running FastAPI service target.
+  []
